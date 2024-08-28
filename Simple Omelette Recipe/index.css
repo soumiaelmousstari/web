@@ -15,7 +15,7 @@ h1{
 section{
     margin-left: 20%;
 }
-span{
+#first_span{
     color: hsl(30, 10%, 34%);
     font-family: Outfit;
     font-weight: 600;
@@ -34,12 +34,16 @@ hr{
 }
 #first_ul{
     padding-left: 3.5%;
+    color: hsl(332, 51%, 32%);
 }
 #first_list{
     padding-left: 2.4%;
 }
 #Preparation_time_title{
     color: hsl(332, 51%, 32%);
+}
+#second_span{
+    color: hsl(30, 10%, 34%);
 }
 #Ingredients{
     line-height: 180%;
